@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TbPublicWifiInfo>
+    <list_total_count>23082</list_total_count>
+    <RESULT>
+        <CODE>INFO-000</CODE>
+        <MESSAGE>정상 처리되었습니다</MESSAGE>
+    </RESULT>
+    <row>
+        <X_SWIFI_MGR_NO>---EP000001</X_SWIFI_MGR_NO>
+        <X_SWIFI_WRDOFC>은평구</X_SWIFI_WRDOFC>
+        <X_SWIFI_MAIN_NM>갈현1동주민센터</X_SWIFI_MAIN_NM>
+        <X_SWIFI_ADRES1>갈현동 갈현로 301</X_SWIFI_ADRES1>
+        <X_SWIFI_ADRES2>갈현1동 1층</X_SWIFI_ADRES2>
+        <X_SWIFI_INSTL_FLOOR/>
+        <X_SWIFI_INSTL_TY>7-1. 공공 - 행정</X_SWIFI_INSTL_TY>
+        <X_SWIFI_INSTL_MBY>의견(자치)</X_SWIFI_INSTL_MBY>
+        <X_SWIFI_SVC_SE>공공WiFi</X_SWIFI_SVC_SE>
+        <X_SWIFI_CMCWR>자가망_U무선망</X_SWIFI_CMCWR>
+        <X_SWIFI_CNSTC_YEAR>2011</X_SWIFI_CNSTC_YEAR>
+        <X_SWIFI_INOUT_DOOR>실내</X_SWIFI_INOUT_DOOR>
+        <X_SWIFI_REMARS3/>
+        <LAT>126.9167</LAT>
+        <LNT>37.62364</LNT>
+        <WORK_DTTM>2023-04-30 10:58:20.0</WORK_DTTM>
+    </row>
+    <row>
+        <X_SWIFI_MGR_NO>---EP000003</X_SWIFI_MGR_NO>
+        <X_SWIFI_WRDOFC>은평구</X_SWIFI_WRDOFC>
+        <X_SWIFI_MAIN_NM>갈현2동주민센터</X_SWIFI_MAIN_NM>
+        <X_SWIFI_ADRES1>갈현2동 연서로27길 31-6</X_SWIFI_ADRES1>
+        <X_SWIFI_ADRES2>갈현2동 1층</X_SWIFI_ADRES2>
+        <X_SWIFI_INSTL_FLOOR/>
+        <X_SWIFI_INSTL_TY>7-1. 공공 - 행정</X_SWIFI_INSTL_TY>
+        <X_SWIFI_INSTL_MBY>의견(자치)</X_SWIFI_INSTL_MBY>
+        <X_SWIFI_SVC_SE>공공WiFi</X_SWIFI_SVC_SE>
+        <X_SWIFI_CMCWR>자가망_U무선망</X_SWIFI_CMCWR>
+        <X_SWIFI_CNSTC_YEAR>2011</X_SWIFI_CNSTC_YEAR>
+        <X_SWIFI_INOUT_DOOR>실내</X_SWIFI_INOUT_DOOR>
+        <X_SWIFI_REMARS3/>
+        <LAT>126.91592</LAT>
+        <LNT>37.61855</LNT>
+        <WORK_DTTM>2023-04-30 10:58:20.0</WORK_DTTM>
+    </row>
+    <row>
+        <X_SWIFI_MGR_NO>---EP000004</X_SWIFI_MGR_NO>
+        <X_SWIFI_WRDOFC>은평구</X_SWIFI_WRDOFC>
+        <X_SWIFI_MAIN_NM>갈현2동주민센터</X_SWIFI_MAIN_NM>
+        <X_SWIFI_ADRES1>갈현2동 연서로27길 31-6</X_SWIFI_ADRES1>
+        <X_SWIFI_ADRES2>갈현2동 마을문고(2층)</X_SWIFI_ADRES2>
+        <X_SWIFI_INSTL_FLOOR/>
+        <X_SWIFI_INSTL_TY>7-1. 공공 - 행정</X_SWIFI_INSTL_TY>
+        <X_SWIFI_INSTL_MBY>의견(자치)</X_SWIFI_INSTL_MBY>
+        <X_SWIFI_SVC_SE>공공WiFi</X_SWIFI_SVC_SE>
+        <X_SWIFI_CMCWR>자가망_U무선망</X_SWIFI_CMCWR>
+        <X_SWIFI_CNSTC_YEAR>2015</X_SWIFI_CNSTC_YEAR>
+        <X_SWIFI_INOUT_DOOR>실내</X_SWIFI_INOUT_DOOR>
+        <X_SWIFI_REMARS3/>
+        <LAT>126.91592</LAT>
+        <LNT>37.61855</LNT>
+        <WORK_DTTM>2023-04-30 10:58:20.0</WORK_DTTM>
+    </row>
+    <row>
+        <X_SWIFI_MGR_NO>---EP000008</X_SWIFI_MGR_NO>
+        <X_SWIFI_WRDOFC>은평구</X_SWIFI_WRDOFC>
+        <X_SWIFI_MAIN_NM>구산동주민센터</X_SWIFI_MAIN_NM>
+        <X_SWIFI_ADRES1>구산동 갈현로17길 10</X_SWIFI_ADRES1>
+        <X_SWIFI_ADRES2>구산동 1층</X_SWIFI_ADRES2>
+        <X_SWIFI_INSTL_FLOOR/>
+        <X_SWIFI_INSTL_TY>7-1. 공공 - 행정</X_SWIFI_INSTL_TY>
+        <X_SWIFI_INSTL_MBY>의견(자치)</X_SWIFI_INSTL_MBY>
+        <X_SWIFI_SVC_SE>공공WiFi</X_SWIFI_SVC_SE>
+        <X_SWIFI_CMCWR>자가망_U무선망</X_SWIFI_CMCWR>
+        <X_SWIFI_CNSTC_YEAR>2011</X_SWIFI_CNSTC_YEAR>
+        <X_SWIFI_INOUT_DOOR>실내</X_SWIFI_INOUT_DOOR>
+        <X_SWIFI_REMARS3/>
+        <LAT>126.91036</LAT>
+        <LNT>37.61173</LNT>
+        <WORK_DTTM>2023-04-30 10:58:20.0</WORK_DTTM>
+    </row>
+    <row>
+        <X_SWIFI_MGR_NO>---EP000013</X_SWIFI_MGR_NO>
+        <X_SWIFI_WRDOFC>은평구</X_SWIFI_WRDOFC>
+        <X_SWIFI_MAIN_NM>녹번동주민센터</X_SWIFI_MAIN_NM>
+        <X_SWIFI_ADRES1>은평로195</X_SWIFI_ADRES1>
+        <X_SWIFI_ADRES2>녹번동 1층</X_SWIFI_ADRES2>
+        <X_SWIFI_INSTL_FLOOR/>
+        <X_SWIFI_INSTL_TY>7-1. 공공 - 행정</X_SWIFI_INSTL_TY>
+        <X_SWIFI_INSTL_MBY>의견(자치)</X_SWIFI_INSTL_MBY>
+        <X_SWIFI_SVC_SE>공공WiFi</X_SWIFI_SVC_SE>
+        <X_SWIFI_CMCWR>자가망_U무선망</X_SWIFI_CMCWR>
+        <X_SWIFI_CNSTC_YEAR>2011</X_SWIFI_CNSTC_YEAR>
+        <X_SWIFI_INOUT_DOOR>실내</X_SWIFI_INOUT_DOOR>
+        <X_SWIFI_REMARS3/>
+        <LAT>126.92981</LAT>
+        <LNT>37.60216</LNT>
+        <WORK_DTTM>2023-04-30 10:58:20.0</WORK_DTTM>
+    </row>
+</TbPublicWifiInfo>
+
