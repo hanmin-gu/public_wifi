@@ -50,8 +50,8 @@
 <table>
 
   <tr>
-    <th style= "color:white">거래</td>
-    <th style = "color: white"scope: "col">관리번호</td>
+    <th style= "color:white">거리</td>
+    <th style = "color: white" scope : "col">관리번호</td>
     <th style = "color: white"scope: "col">자치구</td>
     <th style = "color: white"scope: "col">와이파이명</th>
     <th style = "color: white"scope: "col">도로명주소</th>
