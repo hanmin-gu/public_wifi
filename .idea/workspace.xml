@@ -10,13 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="346d29fd-ac6c-4fa5-897e-3f8f8570c250" name="Changes" comment="..">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xmlParsor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xml_Parsor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/wifi_INF.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/wifi_INF.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xmlParsor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xml_Parsor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xml_Parsor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682853679951</updated>
-      <workItem from="1682853680776" duration="22784000" />
+      <workItem from="1682853680776" duration="28219000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1682858661788</created>
@@ -202,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682858661788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="..">
+      <created>1683243851792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683243851792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
