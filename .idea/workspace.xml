@@ -9,10 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="346d29fd-ac6c-4fa5-897e-3f8f8570c250" name="Changes" comment="..">
+    <list default="true" id="346d29fd-ac6c-4fa5-897e-3f8f8570c250" name="Changes" comment="refactor:ApiExplorer 분리">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xmlParsor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xml_Parsor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xml_Parsor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/public_wifi/xml_Parsor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,36 +45,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/glas/IdeaProjects/public_wifi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/glas/IdeaProjects/public_wifi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\glas\IdeaProjects\public_wifi\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.xml_Parsor">
-    <configuration name="xml_Parsor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.public_wifi.xml_Parsor" />
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.74">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.public_wifi.main" />
       <module name="public_wifi" />
       <extension name="coverage">
         <pattern>
@@ -172,12 +174,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.xml_Parsor" />
+      <item itemvalue="Application.main" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.74" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.xml_Parsor" />
+        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +191,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682853679951</updated>
-      <workItem from="1682853680776" duration="28219000" />
+      <workItem from="1682853680776" duration="46530000" />
+      <workItem from="1683518747289" duration="37000" />
+      <workItem from="1683518817315" duration="4062000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1682858661788</created>
@@ -205,7 +209,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683243851792</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat:xml파서 구현">
+      <created>1683332481581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683332481581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat:domain 작성">
+      <created>1683436468841</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683436468841</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor:ApiExplorer 분리">
+      <created>1683526155522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683526155522</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +238,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="feat:xml파서 구현" />
+    <MESSAGE value="feat:domain 작성" />
+    <MESSAGE value="refactor:ApiExplorer 분리" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor:ApiExplorer 분리" />
   </component>
 </project>
